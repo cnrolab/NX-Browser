@@ -23,10 +23,6 @@
 
 NX Browser 是一款专业的**指纹浏览器**，专为需要管理多个账号的用户设计。每个浏览器环境都拥有独立的指纹信息，让您的多账号操作更加安全、高效。
 
-<p align="center">
-  <img src="https://nxbrowser.com/screenshot.png" alt="NX Browser Screenshot" width="800">
-</p>
-
 ## ✨ 核心功能
 
 ### 🔐 指纹防护
@@ -80,8 +76,7 @@ NX Browser 是一款专业的**指纹浏览器**，专为需要管理多个账�
 ## 💬 联系我们
 
 - 🌐 官网：[https://nxbrowser.com](https://nxbrowser.com/)
-- � QQ群：104o6249490
-- 💬 Telegram：[@nxbrowser](https://t.me/nxbrowser)
+- 💬 QQ群：1046249490
 
 ## ⭐ 支持我们
 
