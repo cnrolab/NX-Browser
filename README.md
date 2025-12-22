@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows-blue?style=flat-square" alt="Platform">
-  <img src="https://img.shields.io/badge/Version-2.5.2-green?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/Version-2.5.3-green?style=flat-square" alt="Version">
   <img src="https://img.shields.io/badge/License-Commercial-orange?style=flat-square" alt="License">
 </p>
 
@@ -111,4 +111,5 @@ NX Browser 是一款专业的**指纹浏览器**，专为需要管理多个账�
 <p align="center">
   Copyright © 2025 深圳市南山区像素星球网络工作室
 </p>
+
 
