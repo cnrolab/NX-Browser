@@ -12,6 +12,12 @@
 </p>
 
 <p align="center">
+  <a href="https://nxbrowser.com/">
+    <img src="https://img.shields.io/badge/🌐_官网-nxbrowser.com-blue?style=for-the-badge" alt="Official Website">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows-blue?style=flat-square" alt="Platform">
   <img src="https://img.shields.io/badge/Version-2.5.0-green?style=flat-square" alt="Version">
   <img src="https://img.shields.io/badge/License-Commercial-orange?style=flat-square" alt="License">
@@ -19,9 +25,11 @@
 
 ---
 
-## 🚀 什么是 NX Browser？
+## � 什么是 NX Browser？
 
 NX Browser 是一款专业的**指纹浏览器**，专为需要管理多个账号的用户设计。每个浏览器环境都拥有独立的指纹信息，让您的多账号操作更加安全、高效。
+
+🔗 **立即体验：[https://nxbrowser.com](https://nxbrowser.com/)**
 
 ## ✨ 核心功能
 
@@ -39,7 +47,7 @@ NX Browser 是一款专业的**指纹浏览器**，专为需要管理多个账�
 - 支持批量导入导出
 
 ### 🌐 代理支持
-- HTTP/HTTPS 代理
+- HTTP 代理
 - SOCKS5 代理
 - 支持代理认证
 - 智能 IP 检测
@@ -50,12 +58,18 @@ NX Browser 是一款专业的**指纹浏览器**，专为需要管理多个账�
 - 操作日志
 - 多人协作
 
+> 💡 了解更多功能详情，请访问 [nxbrowser.com](https://nxbrowser.com/)
+
 ## 📥 下载安装
 
 <p align="center">
   <a href="https://nxbrowser.com/">
     <img src="https://img.shields.io/badge/Download-Windows%20x64-0078D4?style=for-the-badge&logo=windows" alt="Download for Windows">
   </a>
+</p>
+
+<p align="center">
+  📥 <a href="https://nxbrowser.com/"><strong>点击下载最新版本</strong></a>
 </p>
 
 **系统要求：**
@@ -88,6 +102,10 @@ NX Browser 是一款专业的**指纹浏览器**，专为需要管理多个账�
   <strong>
     <a href="https://nxbrowser.com/">👉 立即访问官网了解更多 👈</a>
   </strong>
+</p>
+
+<p align="center">
+  🌐 <a href="https://nxbrowser.com/">nxbrowser.com</a>
 </p>
 
 <p align="center">
