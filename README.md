@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cnrolab/NX-Browser/main/github-readme/logo.png" alt="NX Browser Logo" width="120" height="120">
-</p>
-
-<h1 align="center">NX Browser - 专业指纹浏览器</h1>
+<h1 align="center">🌐 NX Browser - 专业指纹浏览器</h1>
 
 <p align="center">
   <strong>多账号管理 | 指纹防护 | 团队协作 | 安全隔离</strong>
